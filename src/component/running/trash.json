@@ -1,194 +1,194 @@
 [
    {
       "id":1,
-      "district":"강남구",
-      "road":"강남대로",
-      "address":"서울 강남구 강남대로 450 한국자산관리공사",
-      "point":"정류소(버스, 택시 등)",
-      "type":"일반쓰레기, 재활용쓰레기"
+      "district":"미추홀구",
+      "road":"인하로",
+      "address":"인천 미추홀구 인하로 77",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":2,
-      "district":"강남구",
-      "road":"강남대로",
-      "address":"서울 강남구 강남대로 430",
-      "point":"도로변(횡단보도 포함)",
-      "type":"일반쓰레기, 재활용쓰레기"
+      "district":"미추홀구",
+      "road":"경인남길",
+      "address":"인천 미추홀구 경인남길30번길 104",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":3,
-      "district":"강남구",
-      "road":"강남대로",
-      "address":"서울 강남구 강남대로 408",
-      "point":"도로변(횡단보도 포함)",
-      "type":"일반쓰레기, 재활용쓰레기"
+      "district":"미추홀구",
+      "road":"인하로",
+      "address":"인천 미추홀구 인하로120번길 3",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":4,
-      "district":"강남구",
-      "road":"테헤란로",
-      "address":"서울 강남구 역삼동 822-1",
-      "point":"지하철역 입구",
-      "type":"일반쓰레기, 재활용쓰레기"
+      "district":"미추홀구",
+      "road":"독배로",
+      "address":"인천 미추홀구 독배로382번길 46",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":5,
-      "district":"강남구",
-      "road":"강남대로",
-      "address":"서울 강남구 역삼동 808-5",
-      "point":"지하철역 입구",
-      "type":"일반쓰레기, 재활용쓰레기"
+      "district":"미추홀구",
+      "road":"소성로",
+      "address":"인천 미추홀구 소성로 40",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":6,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 623 이편한 치과",
-      "point":"지하철역 입구",
-      "type":"재활용쓰레기"
+      "district":"미추홀구",
+      "road":"인하로",
+      "address":"인천 미추홀구 인하로 100 인하공업전문대학관 1층 1동 1호",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":7,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 601 셀트리온",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"미추홀구",
+      "road":"소성로",
+      "address":"인천 미추홀구 소성로 71",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":8,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 567 대도식당",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"미추홀구",
+      "road":"용정공원로",
+      "address":"인천 미추홀구 용정공원로83번길 49",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":9,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 505 고도일병원",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"미추홀구",
+      "road":"용정공원로",
+      "address":"인천 미추홀구 용정공원로83번길 43",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":10,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 483 스타벅스",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"미추홀구",
+      "road":"경인남길3",
+      "address":"인천 미추홀구 경인남길30번길 104",
+      "point":"",
+      "type":"편의점"
    },
    {
       "id":11,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"서울 서초구 반포동 749-18",
-      "point":"지하철역 입구",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":12,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 447 자라",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":13,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 441 유화빌딩",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":14,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 423 이니스프리",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":15,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 415 대동빌딩",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":16,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 405 통영빌딩, 하나은행 강남역지점",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":17,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"서울 서초구 강남대로 381 두산베어스텔빌딩",
-      "point":"지하철역 입구",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":18,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 373 던킨도너츠",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":19,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 365 도씨에빛 ",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":20,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 359 T월드",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":21,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 343 신한금융투자 강남중앙지점",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":22,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 331 파스쿠치",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":23,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 299",
-      "point":"지하철역 입구",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    },
    {
       "id":24,
-      "district":"서초구",
-      "road":"강남대로",
-      "address":"강남대로 259 페이토호텔",
-      "point":"상가지역",
-      "type":"재활용쓰레기"
+      "district":"",
+      "road":"",
+      "address":"",
+      "point":"",
+      "type":""
    }
 ]

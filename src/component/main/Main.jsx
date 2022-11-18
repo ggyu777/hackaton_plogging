@@ -57,9 +57,9 @@ function Main(props) {
             <span>
               저희 줍고는{" "}
               <span style={{ color: "#49e594", fontWeight: "bold" }}>
-                플로깅 사용자
+              플로깅에 NFT
               </span>
-              를 위한 서비스에요
+              를 결합한 서비스에요
               <br style={{ border: "1px solid black" }} />
               <br />
               초보자들을 위한 <span style={{ fontWeight: "bold" }}>안내</span>
@@ -67,10 +67,10 @@ function Main(props) {
               <br />
               각종 <span style={{ fontWeight: "bold" }}>행사정보</span>는
               물론이고 <br />
-              플로깅을 위한{" "}
-              <span style={{ fontWeight: "bold" }}>경로 설정</span>까지 <br />
+              더 나아가{" "}
+              <span style={{ color: "#49e594",fontWeight: "bold" }}>미션을 완료</span> 하고 <span style={{ color: "#49e594",fontWeight: "bold" }}>NFT 혜택</span>까지<br />
               <br />
-              <span style={{ fontWeight: "bold" }}>전부 도와드릴게요 😊</span>
+              <span style={{ fontWeight: "bold" }}>전부 제공 해드릴게요 😊</span>
             </span>
           </div>
         </div>

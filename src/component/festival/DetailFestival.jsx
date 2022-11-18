@@ -67,10 +67,10 @@ function DetailFestival(props) {
               </button>
             </div>
             <div className="detail_content">
-              안녕하세요 줍고입니다
+              안녕하세요 줍고 입니다
               <br />
               <br />
-              나와 지구를 한 걸음 더 나아가게 하는 당신의 플로깅을 응원합니다!
+              플로깅도 하고 NFT도 받아가세요!
               <br />
               <br />
               주최 측에서 제공하는 행사 정보는 아래와 같습니다
@@ -127,7 +127,7 @@ function DetailFestival(props) {
                         className="detail_comment_face"
                         src="/profilePersonIcon.png"
                       ></img>
-                      <div className="detail_comment_name">쩌니</div>
+                      <div className="detail_comment_name">영민</div>
                     </div>
                     <div className="detail_comment_text">
                       신청했습니다! 두근두근 너무 재밌을 것 같아요~~
@@ -139,7 +139,7 @@ function DetailFestival(props) {
                         className="detail_comment_face"
                         src="/profilePersonIcon.png"
                       ></img>
-                      <div className="detail_comment_name">쏘니</div>
+                      <div className="detail_comment_name">규준</div>
                     </div>
                     <div className="detail_comment_text">
                       이렇게 좋은 사이트가 있다니..!! 친구들한테도
@@ -152,7 +152,7 @@ function DetailFestival(props) {
                         className="detail_comment_face"
                         src="/profilePersonIcon.png"
                       ></img>
-                      <div className="detail_comment_name">뀨?</div>
+                      <div className="detail_comment_name">호진</div>
                     </div>
                     <div className="detail_comment_text">
                       플로깅은 못참지! 신청 꾹 박고 갑니다~~
